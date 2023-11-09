@@ -12,7 +12,7 @@ const MenuApi = [
     {
       id: 2,
       image: "https://media.istockphoto.com/id/1641517682/photo/crispy-vegetables-or-chicken-pakora-pakoda-and-pakoray-with-chilli-sauce-served-in-dish.jpg?s=612x612&w=is&k=20&c=TGMfYT3ReXgp8R4AAWU-bHzLw_ua-3aYA1h34avmhGg=",
-      name: "allu pakoida",
+      name: "aaloo pakoda",
       category: "evening",
       price: "20₹",
       description:
@@ -30,7 +30,7 @@ const MenuApi = [
     {
       id: 4,
       image: "https://media.istockphoto.com/id/669495548/photo/spicy-chick-peas-curry-or-chola-masala-or-chana-masala-or-chole-bhature-or-choley-garnished.jpg?s=612x612&w=0&k=20&c=7-fra_6x92HRczz_ASSkADXc8KrhExuT-j4-LTB5jj4=",
-      name: "chola",
+      name: "chhole",
       category: "lunch",
       price: "50₹",
       description:
@@ -75,12 +75,12 @@ const MenuApi = [
     {
       id: 9,
       image: "https://media.istockphoto.com/id/1430060145/photo/sweet-tasty-fried-indian-dish-samosha-indian-delicious-deep-fried-breakfast-samosa-also-know.jpg?s=612x612&w=0&k=20&c=bxOAfJThGKNSzugC7Id_vPO9l5UPljCKSgOc18-2vS0=",
-      name: "samaso",
+      name: "samosa",
       category: "evening",
       price: "10₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
-    },
+    }
   ];
   
   export default MenuApi;
